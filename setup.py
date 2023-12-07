@@ -22,7 +22,7 @@ requirements = [
     "jinja2>=2.11.0",
     "scipy>=1.4.0",
     "seaborn>=0.10.1",
-    "shapash>=2.0.0,shapash<2.4.0",
+    "shapash>=2.0.0,<2.4.0",
     "jupyter",
 ]
 
